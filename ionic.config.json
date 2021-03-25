@@ -1,0 +1,7 @@
+{
+  "name": "kawwin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
